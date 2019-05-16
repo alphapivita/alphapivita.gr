@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/045d704a-cb3e-4a2d-b329-8193815ef61e/deploy-status)](https://app.netlify.com/sites/youthful-feynman-696c41/deploys)
