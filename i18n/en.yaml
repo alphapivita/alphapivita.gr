@@ -1,0 +1,68 @@
+# section
+
+ephemera:
+  other: ephemera
+
+projects:
+  other: objects
+
+texts:
+  other: texts
+
+verses:
+  other: verses
+
+
+# tags
+
+
+tag-architecture:
+  other: architecture
+
+tag-artifact:
+  other: artifact
+
+tag-code:
+  other: code
+
+tag-design:
+  other: design
+
+tag-visual-design:
+  other: visual-design
+
+tag-portfolio:
+  other: vitrine
+
+tag-video:
+  other: video
+
+tag-inscription:
+  other: inscription
+
+tag-howto:
+  other: how-to
+
+tag-verse:
+  other: verse
+
+tag-www:
+  other: www
+
+tag-essay:
+  other: essay
+
+tag-apparatus:
+  other: apparatus
+
+tag-circuit:
+  other: circuit
+
+tag-book-review:
+  other: book-review
+
+
+# threads
+
+series-debtron:
+  other: DEBTRON

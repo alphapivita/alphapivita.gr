@@ -1,0 +1,119 @@
+baseURL: https://www.alphapivita.gr/
+metaDataFormat: yaml
+
+## Debug
+enableMissingTranslationPlaceholders: true
+
+## Misc display settings
+# pygmentsCodefences: true
+# pygmentsUseClasses: true
+pluralizeListTitles: false
+footnoteReturnLinkContents: "*"
+
+## Menu settings
+sectionPagesMenu: main # see https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
+
+
+## Active Theme
+theme: onionskin
+
+## Taxonomies settings
+taxonomies:
+  category: categories
+  tag: tags
+  series: series # opengraph default partial may fail without this
+
+frontmatter:
+  date:
+    - :filename
+    - :default
+
+## Permalink settings
+relativeURLs: true
+permalinks:
+  texts: /:slug/
+  objects: /:slug/
+  posts: /:year/:month/:slug/
+  ephemera: /:section/:year/:month/:day/:slug/
+
+## Language specific settings
+defaultContentLanguage: el
+languages:
+  en:
+    languageName: en
+    languageCode: en-US
+    title: Open Children’s Library
+    weight: 2
+    params:
+      locale: en
+      # description: Personal website of …
+  el:
+    languageName: ελ
+    languageCode: el-GR
+    title: Ανοικτή Παιδική Βιβλιοθήκη
+    weight: 1
+    copyright: |
+      © 2019 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>
+    params:
+      locale: el
+      # description: Personal website of …
+  ur:
+    languageName: اُردُو
+    languageCode: ur
+    title: Open Children’s Library
+    weight: 3
+    params:
+      locale: ur
+  fa:
+    languageName: فارسی
+    languageCode: fa
+    title: Open Children’s Library
+    weight: 4
+    params:
+      locale: ur
+
+## Custom parameters
+params:
+  theme: white # Select default theme colors (dark, black, white, blue, gold) or leave empty for default
+  sharing: true # Enable native social sharing buttons?
+  # menu_main: true # Enable to display main menu
+  # menu_footer: true # Enable to display main menu
+  menu_social: true # Enable to display social menu
+  # search: true # Enable search
+  social:
+    - name: facebook
+      link: https://www.facebook.com/%CE%91%CE%BD%CE%BF%CE%B9%CE%BA%CF%84%CE%AE-%CE%A0%CE%B1%CE%B9%CE%B4%CE%B9%CE%BA%CE%AE-%CE%92%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7-289295551733297/
+      icon: f
+    - name: instagram
+      link: https://www.instagram.com/alphapivita/
+      icon: m
+    - name: email
+      link: mailto://info@alphapivita.gr
+      icon: e
+
+## Services settings
+# googleAnalytics: # Google Analytics ID, see https://gohugo.io/templates/internal/
+# disqusShortname: # Disqus ID, see https://gohugo.io/templates/internal/
+
+## Services privacy settings, see https://gohugo.io/about/hugo-and-gdpr/
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: true
+  instagram:
+    disable: false
+    simple: true
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: true
+  vimeo:
+    disable: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
