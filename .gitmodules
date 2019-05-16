@@ -1,0 +1,3 @@
+[submodule "themes/onionskin"]
+	path = themes/onionskin
+	url = https://gitlab.com/heracles/onionskin.git
