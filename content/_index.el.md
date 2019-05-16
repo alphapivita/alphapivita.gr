@@ -6,7 +6,6 @@ description: Σωματείο για την πολιτισμική παρέμβ�
 <section class="slide" style="background: #ededed; z-index: 103; 	background-image: url('../assets/shiny.png');">
 	<img src="../assets/logo.png" alt="α π β" style="width: 70vw; max-width: 300px; margin: 0 auto;" />
 	<p><span style="color: rgb(239, 118, 122)">ανοικτή</span> <span style="color: rgb(239, 184, 104)">παιδική</span> <span style="color: rgb(29, 188, 180)">βιβλιοθήκη</span></p>
-	{{< menu-social >}}
 	<div id="newsletter">
 		<form action="https://alphapivita.us20.list-manage.com/subscribe/post?u=1be1ddf9a374f5ffdc688598f&amp;id=ea42bc188e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			<div id="mc_embed_signup_scroll">
@@ -17,7 +16,8 @@ description: Σωματείο για την πολιτισμική παρέμβ�
 			<div class="clear"><input type="submit" value="ΕΓΓΡΑΦΗ" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 			</div>
 		</form>
-	</div>
+	</div>    
+    {{< menu-social >}}
 </section>
 
 Η Ανοικτή Παιδική Βιβλιοθήκη, ιδρύθηκε το Νοέμβριο του 2018 από μία ομάδα νέων βιβλιοθηκονόμων, ψυχολόγων, παιδαγωγών, αρχιτεκτόνων, καλλιτεχνών και άλλων επαγγελματιών που σχεδιάζουν και υλοποιούν δράσεις για παιδιά και με παιδιά, ηλικίας 5–13 ετών.
