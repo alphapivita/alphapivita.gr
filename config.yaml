@@ -11,7 +11,7 @@ pluralizeListTitles: false
 footnoteReturnLinkContents: "*"
 
 ## Menu settings
-sectionPagesMenu: main # see https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
+# sectionPagesMenu: main # see https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
 
 
 ## Active Theme
@@ -77,7 +77,7 @@ params:
   theme: white # Select default theme colors (dark, black, white, blue, gold) or leave empty for default
   sharing: true # Enable native social sharing buttons?
   # menu_main: true # Enable to display main menu
-  # menu_footer: true # Enable to display main menu
+  menu_footer: true # Enable to display main menu
   menu_social: true # Enable to display social menu
   # search: true # Enable search
   social:
