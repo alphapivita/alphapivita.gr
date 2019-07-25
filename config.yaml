@@ -31,10 +31,8 @@ frontmatter:
 ## Permalink settings
 relativeURLs: true
 permalinks:
-  texts: /:slug/
-  objects: /:slug/
-  posts: /:year/:month/:slug/
-  ephemera: /:section/:year/:month/:day/:slug/
+  announcements: /:year/:month/:slug/
+  blog: /:year/:month/:day/:slug/
 
 ## Language specific settings
 defaultContentLanguage: el
