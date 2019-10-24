@@ -3,7 +3,7 @@ title: απβ
 description: 
 ---
 
-<section class="slide static">
+<section class="panel static">
 📚🏗️<br>
 Under development, please accept our apologies.
 </section>
