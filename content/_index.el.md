@@ -3,7 +3,7 @@ title: απβ
 description: Σωματείο για την πολιτισμική παρέμβαση και την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.
 ---
 
-<section class="panel static snap" style="--page-color: 235,235,235; z-index: 103; 	background-image: url('../assets/shiny.png'); margin-top: calc(-1*var(--header-height) - 2*var(--gutter-width));">
+<section class="panel snap" style="--page-color: 235,235,235; z-index: 100; 	background-image: url('../assets/shiny.png'); margin-top: calc(-1*var(--header-height) - 2*var(--gutter-width));">
 	<img src="../assets/logo.png" alt="α π β" style="width: 70vw; max-width: 300px; margin: 0 auto;" />
 	<p class="monospace"><span style="color: rgb(239, 118, 122)">Ανοικτή</span> <span style="color: rgb(239, 184, 104)">Παιδική</span> <span style="color: rgb(29, 188, 180)">Βιβλιοθήκη</span></p>
 	<div id="newsletter">
@@ -19,9 +19,9 @@ description: Σωματείο για την πολιτισμική παρέμβ�
 	</div>    
     {{< menu-social >}}
 </section>
-<section class="panel snap " style="--page-color: 247, 246, 194" >
+<section class="panel snap" style="--page-color: 240, 240, 240" >
 {{< articles-list types="projects" title="Πρότζεκτ" filter="" class="no-time" >}}
-{{< articles-list types="announcements" title="Ανακοινώσεις" filter="" class="stack" >}}
+{{< articles-list types="announcements" title="Ανακοινώσεις" filter="" class="" >}}
 </section>
 
 Η Ανοικτή Παιδική Βιβλιοθήκη, ιδρύθηκε το Νοέμβριο του 2018 από μία ομάδα νέων βιβλιοθηκονόμων, ψυχολόγων, παιδαγωγών, αρχιτεκτόνων, καλλιτεχνών και άλλων επαγγελματιών που σχεδιάζουν και υλοποιούν δράσεις για παιδιά και με παιδιά, ηλικίας 5–13 ετών.

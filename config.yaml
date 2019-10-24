@@ -79,6 +79,7 @@ params:
   menu_footer: true # Enable to display main menu
   menu_social: true # Enable to display social menu
   # search: true # Enable search
+  date_format: "02/01/2006"
   social:
     - name: facebook
       link: https://www.facebook.com/alphapivita/
