@@ -3,13 +3,14 @@ title: LIGHTBOX
 date: 2019-10-23
 dateCreated: 2019
 description: Ένα ευέλικτο εργαλείο μη τυπικής εκπαίδευσης, το οποίο επιτρέπει την υλοποίηση διαπολιτισμικών και διαδραστικών προγραμμάτων.
-image_preview: lightbox_01.jpg
+image_preview: lightbox_03.jpg
 ---
 
 Το “LIGHTBOX”, είναι μια κινητή κατασκευή προβολής που απευθύνεται σε παιδιά με διαφορετικό γλωσσικό και πολιτισμικό υπόβαθρο, με την παρουσία υποτίτλων σε μέχρι 8 διαφορετικές γλώσσες.
 
 {{< gallery >}}
     {{< figure src="./lightbox_02.jpg" >}}
+    {{< figure src="./lightbox_03.jpg" >}}
     {{< figure src="./lightbox_01.jpg" >}}
 {{< /gallery >}}
 

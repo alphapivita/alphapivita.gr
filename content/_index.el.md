@@ -3,14 +3,14 @@ title: απβ
 description: Σωματείο για την πολιτισμική παρέμβαση και την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.
 ---
 
-<section class="panel snap" style="--page-color: 235,235,235; z-index: 100; 	background-image: url('../assets/shiny.png'); margin-top: calc(-1*var(--header-height) - 2*var(--gutter-width));">
+<section class="panel" style="--page-color: 235,235,235; z-index: 100; 	background-image: url('../assets/shiny.png'); margin-top: calc(-1*var(--header-height) - 2*var(--gutter-width));">
 	<img src="../assets/logo.png" alt="α π β" style="width: 70vw; max-width: 300px; margin: 0 auto;" />
 	<p class="monospace"><span style="color: rgb(239, 118, 122)">Ανοικτή</span> <span style="color: rgb(239, 184, 104)">Παιδική</span> <span style="color: rgb(29, 188, 180)">Βιβλιοθήκη</span></p>
 	<div id="newsletter">
 		<form action="https://alphapivita.us20.list-manage.com/subscribe/post?u=1be1ddf9a374f5ffdc688598f&amp;id=ea42bc188e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 			<div id="mc_embed_signup_scroll">
 			<label for="mce-EMAIL"></label>
-			<input type="email" value="" name="EMAIL" class="email center" id="mce-EMAIL" placeholder="θέλω να λαμβάνω νέα" required autocomplete="off">
+			<input type="email" value="" name="EMAIL" class="email center" id="mce-EMAIL" placeholder="ενημερωτικό δελτίο" required autocomplete="off">
 			<small id="mc-message"></small>
 			<div style="position: absolute; left: -5000px;"><input type="text" name="b_3fe26bfdb0a41cb3c14bc5371_908afe4798" tabindex="-1" value=""></div>
 			<div class="clear"><input type="submit" value="ΕΓΓΡΑΦΗ" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
@@ -19,7 +19,7 @@ description: Σωματείο για την πολιτισμική παρέμβ�
 	</div>    
     {{< menu-social >}}
 </section>
-<section class="panel snap" style="--page-color: 240, 240, 240" >
+<section class="panel" style="--page-color: 240, 240, 240" >
 {{< articles-list types="projects" title="Πρότζεκτ" filter="" class="no-time" >}}
 {{< articles-list types="announcements" title="Ανακοινώσεις" filter="" class="" >}}
 </section>
