@@ -55,7 +55,7 @@ languages:
     logo: '<span class="mono"><span style="color: rgb(239, 118, 122)">Ανοικτή</span> <span style="color: rgb(239, 184, 104)">Παιδική</span> <span style="color: rgb(29, 188, 180)">Βιβλιοθήκη</span></span>'
     copyright: |
       © 2019 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
-    params:\
+    params:
       # description: Personal website of …
   ur:
     languageName: اُردُو
