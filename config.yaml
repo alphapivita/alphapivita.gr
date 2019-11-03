@@ -41,23 +41,21 @@ copyright: |
 defaultContentLanguage: el
 languages:
   en:
-    languageName: en
-    languageCode: en-US
-    title: Open Children’s Library
     weight: 2
+    languageName: en
+    languageCode: en
+    title: Open Children’s Library
     params:
-      locale: en
       # description: Personal website of …
   el:
+    weight: 1
     languageName: ελ
-    languageCode: el-GR
+    languageCode: el
     title: Ανοικτή Παιδική Βιβλιοθήκη
     logo: '<span class="mono"><span style="color: rgb(239, 118, 122)">Ανοικτή</span> <span style="color: rgb(239, 184, 104)">Παιδική</span> <span style="color: rgb(29, 188, 180)">Βιβλιοθήκη</span></span>'
-    weight: 1
     copyright: |
       © 2019 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
-    params:
-      locale: el
+    params:\
       # description: Personal website of …
   ur:
     languageName: اُردُو
