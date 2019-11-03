@@ -87,7 +87,7 @@ params:
   # search: true # Enable search, currently unavailable
   # languageDir: rtl # Language direction, default is none
   # logo: "" # Custom header, default is none
-  date_format: "02/01/2006"
+  date_format: 02/01/2006
   social:
     - name: facebook
       link: https://www.facebook.com/alphapivita/
