@@ -58,18 +58,18 @@ languages:
     params:
       # description: Personal website of …
   ur:
+    weight: 3
     languageName: اُردُو
     languageCode: ur
     title: Open Children’s Library
-    weight: 3
     params:
       locale: ur
       languageDir: rtl
   fa:
+    weight: 4
     languageName: فارسی
     languageCode: fa
     title: Open Children’s Library
-    weight: 4
     params:
       locale: fa
       languageDir: rtl
