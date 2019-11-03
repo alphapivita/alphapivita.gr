@@ -36,6 +36,8 @@ permalinks:
   blog: /:section/:year/:month/:day/:slug/
 
 ## Language specific settings
+copyright: |
+  © 2019 Open Children’s Library
 defaultContentLanguage: el
 languages:
   en:
@@ -50,6 +52,7 @@ languages:
     languageName: ελ
     languageCode: el-GR
     title: Ανοικτή Παιδική Βιβλιοθήκη
+    logo: '<span class="mono"><span style="color: rgb(239, 118, 122)">Ανοικτή</span> <span style="color: rgb(239, 184, 104)">Παιδική</span> <span style="color: rgb(29, 188, 180)">Βιβλιοθήκη</span></span>'
     weight: 1
     copyright: |
       © 2019 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
@@ -63,22 +66,29 @@ languages:
     weight: 3
     params:
       locale: ur
+      languageDir: rtl
   fa:
     languageName: فارسی
     languageCode: fa
     title: Open Children’s Library
     weight: 4
     params:
-      locale: ur
+      locale: fa
+      languageDir: rtl
 
 ## Custom parameters
 params:
-  theme: white # Select default theme colors (dark, black, white, blue, gold) or leave empty for default
-  # sharing: true # Enable native social sharing buttons?
-  # menu_main: true # Enable to display main menu
-  menu_footer: true # Enable to display main menu
-  menu_social: true # Enable to display social menu
-  # search: true # Enable search
+  theme: white sans
+  menu_main: false # Display main menu, default is true
+  # menu_footer: false # Display footer menu, default is true
+  # show_share: false # Social sharing buttons, default is true
+  show_meta: false # Post metadata display, default is true
+  # show_social: false # Display social menu in footer, default is true
+  show_ui: false # Display UI features, default is true
+  # show_comments: false # Dislay comments, default is true
+  # search: true # Enable search, currently unavailable
+  # languageDir: rtl # Language direction, default is none
+  # logo: "" # Custom header, default is none
   date_format: "02/01/2006"
   social:
     - name: facebook
