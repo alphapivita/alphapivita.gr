@@ -40,13 +40,12 @@ copyright: |
   © 2019 Children’s Open Library
 defaultContentLanguage: el
 languages:
-  en:
-    weight: 2
-    languageName: en
-    languageCode: en
-    title: Children’s Open Library
-    params:
-      # description: Personal website of …
+  # en:
+  #   weight: 2
+  #   languageName: en
+  #   languageCode: en
+  #   title: Children’s Open Library
+  #   params:
   el:
     weight: 1
     languageName: ελ
@@ -56,23 +55,22 @@ languages:
     copyright: |
       © 2019 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
     params:
-      # description: Personal website of …
-  ur:
-    weight: 3
-    languageName: اُردُو
-    languageCode: ur
-    title: Children’s Open Library
-    params:
-      locale: ur
-      languageDir: rtl
-  fa:
-    weight: 4
-    languageName: فارسی
-    languageCode: fa
-    title: Children’s Open Library
-    params:
-      locale: fa
-      languageDir: rtl
+  # ur:
+  #   weight: 3
+  #   languageName: اُردُو
+  #   languageCode: ur
+  #   title: Children’s Open Library
+  #   params:
+  #     locale: ur
+  #     languageDir: rtl
+  # fa:
+  #   weight: 4
+  #   languageName: فارسی
+  #   languageCode: fa
+  #   title: Children’s Open Library
+  #   params:
+  #     locale: fa
+  #     languageDir: rtl
 
 ## Custom parameters
 params:
