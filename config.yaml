@@ -37,14 +37,14 @@ permalinks:
 
 ## Language specific settings
 copyright: |
-  © 2019 Open Children’s Library
+  © 2019 Children’s Open Library
 defaultContentLanguage: el
 languages:
   en:
     weight: 2
     languageName: en
     languageCode: en
-    title: Open Children’s Library
+    title: Children’s Open Library
     params:
       # description: Personal website of …
   el:
@@ -52,7 +52,7 @@ languages:
     languageName: ελ
     languageCode: el
     title: Ανοικτή Παιδική Βιβλιοθήκη
-    logo: '<span class="mono"><span style="color: rgb(239, 118, 122)">Ανοικτή</span> <span style="color: rgb(239, 184, 104)">Παιδική</span> <span style="color: rgb(29, 188, 180)">Βιβλιοθήκη</span></span>'
+    logo: '<img src="../assets/alphapivita__EL__regular_beta.png" alt="Ανοικτή Παιδική Βιβλιοθήκη" width="150">'
     copyright: |
       © 2019 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
     params:
@@ -61,7 +61,7 @@ languages:
     weight: 3
     languageName: اُردُو
     languageCode: ur
-    title: Open Children’s Library
+    title: Children’s Open Library
     params:
       locale: ur
       languageDir: rtl
@@ -69,7 +69,7 @@ languages:
     weight: 4
     languageName: فارسی
     languageCode: fa
-    title: Open Children’s Library
+    title: Children’s Open Library
     params:
       locale: fa
       languageDir: rtl

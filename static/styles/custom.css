@@ -1,0 +1,67 @@
+body {
+	/*--accent-color: 148, 46, 74 !important;*/
+	--accent-color: 255, 93, 92 !important;
+	--page-color-transparency: 1;
+}
+
+body.home > header {
+	display: none;
+}
+
+body.home section {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	/*outline: 2px dotted red;*/
+}
+
+/*body > header,
+body > footer {
+	background-color: rgb(240, 240, 240);
+	background-image: url('../assets/pattern.png');
+	background-attachment: fixed;
+	background-size: 200px 200px;
+}*/
+
+
+
+/* newsletter form */
+
+#newsletter form {
+	display: flex;
+	position: relative;
+	flex-wrap: wrap;
+	margin: var(--gutter-height) auto;
+	max-width: 15rem;
+
+	background: rgba(var(--page-color), 0.7);
+	border: 1.5px solid;
+	border-radius: 2rem;
+}
+
+#newsletter form:focus-within {
+	border-color: rgb(var(--accent-color));
+}
+
+#newsletter input {
+	margin: 3px;
+}
+
+#newsletter input[type="email"] {
+	flex-grow: 1;
+	flex-shrink: 0;
+	flex-basis: 0;
+	margin-left: 0.8em;
+
+	border-color: transparent;
+}
+
+#newsletter label {
+	/*outline: 1px solid red;*/
+	position: absolute;
+	top: -2em;
+	width: 100%;
+
+	font-size:   0.8em;
+	line-height: 0.8em;
+	text-align: center;
+}
