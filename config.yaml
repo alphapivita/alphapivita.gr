@@ -33,6 +33,7 @@ relativeURLs: true
 permalinks:
   projects: /:section/:slug/
   announcements: /:section/:year/:slug/
+  news: /:section/:year/:slug/
   blog: /:section/:year/:month/:day/:slug/
 
 ## Language specific settings
@@ -123,3 +124,9 @@ privacy:
   youtube:
     disable: false
     privacyEnhanced: true
+
+## goldmark markdown renderer settins
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -20,8 +20,8 @@ description: Σωματείο για την πολιτισμική παρέμβ�
 {{</ section >}}
 
 {{< section class="panel fade" style="--page-color: 240, 240, 240" >}}
-<!-- {{< articles-list types="announcements" title="Δράσεις" filter="" class="" >}} -->
-{{< articles-list types="announcements" title="Ανακοινώσεις" filter="" class="" >}}
+{{< articles-list types="news" title="Ενημερώσεις" filter="" class="" >}}
+<!-- {{< articles-list types="announcements" title="Ανακοινώσεις" filter="" class="" >}} -->
 {{< articles-list types="projects" title="Πρότζεκτ" filter="" class="no-time" >}}
 {{</ section >}}
 
