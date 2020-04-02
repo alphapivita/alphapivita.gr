@@ -14,7 +14,7 @@ image: peinagialexeis_landscape.jpg
 
 1. Ανεβάστε μια εικόνα με το αγαπημένο σας παιδικό ή εφηβικό βιβλίο.
 2. Στην περιγραφή της εικόνας γράψτε τον τίτλο και το όνομα του συγγραφέα μαζί με την αγαπημένη σας λέξη ή φράση από το βιβλίο.
-3. Χρησιμοποιείστε τα hashtag #alphapivita #peinagialexeis #icbd #childrensbookday
+3. Χρησιμοποιείστε τα hashtag #alphapivita #peinagialexeis #ICBD2020 #childrensbookday
 4. Κάντε mention τη σελίδα της [Ανοικτής Παιδικής Βιβλιοθήκης](https://alphapivita.gr]) (@alphapivita) στο [Instagram](https://www.instagram.com/alphapivita/) ή στο [Facebook](https://www.facebook.com/alphapivita/) και τους φίλους σας για να κάνουν το ίδιο.
 
 
