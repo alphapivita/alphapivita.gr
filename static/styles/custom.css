@@ -4,13 +4,9 @@ body {
 	--page-color-transparency: 1;
 }
 
-body.home > header {
-	display: none;
-}
-
 body.home section {
-	padding-top: 2rem;
-	padding-bottom: 2rem;
+	/*padding-top: 2rem;*/
+	/*padding-bottom: 2rem;*/
 	/*outline: 2px dotted red;*/
 }
 

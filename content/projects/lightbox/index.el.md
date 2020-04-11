@@ -10,6 +10,7 @@ image_preview: lightbox_03.jpg
 
 {{< gallery >}}
     {{< figure src="./lightbox_02.jpg" >}}
+    {{< figure src="./lightbox_04.jpg" >}}
     {{< figure src="./lightbox_03.jpg" >}}
     {{< figure src="./lightbox_01.jpg" >}}
 {{< /gallery >}}
