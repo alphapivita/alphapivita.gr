@@ -15,7 +15,7 @@ footnoteReturnLinkContents: "*"
 
 
 ## Active Theme
-theme: onionskin
+theme: xerographic
 
 ## Taxonomies settings
 taxonomies:
@@ -75,7 +75,7 @@ languages:
 
 ## Custom parameters
 params:
-  theme: white sans
+  theme: theme-white font-sans
   menu_main: false # Display main menu, default is true
   # menu_footer: false # Display footer menu, default is true
   # show_share: false # Social sharing buttons, default is true
