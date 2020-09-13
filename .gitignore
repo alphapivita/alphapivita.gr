@@ -3,5 +3,6 @@
 *.sublime-workspace
 * - Copy.*
 *.exe
-resourses/*
-public/*
+*.sh
+**/resourses
+**/public
