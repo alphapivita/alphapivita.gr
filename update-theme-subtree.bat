@@ -1,1 +1,1 @@
-git subtree pull --prefix=themes/xerographic xerographic master --squash
+bash update-theme.sh
