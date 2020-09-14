@@ -17,6 +17,9 @@ footnoteReturnLinkContents: "*"
 ## Active Theme
 theme: xerographic
 
+## Post Summaries
+summaryLength: 12
+
 ## Taxonomies settings
 taxonomies:
   category: categories
@@ -54,7 +57,7 @@ languages:
     title: Ανοικτή Παιδική Βιβλιοθήκη
     logo: '<img src="../assets/alphapivita__EL__regular_beta.png" alt="Ανοικτή Παιδική Βιβλιοθήκη" width="150">'
     copyright: |
-      © 2019 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
+      © 2019-2020 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
     params:
   # ur:
   #   weight: 3

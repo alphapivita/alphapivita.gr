@@ -2,22 +2,19 @@ body {
 	/*--accent-color: 148, 46, 74 !important;*/
 	--accent-color: 255, 93, 92 !important;
 	--page-color-transparency: 1;
+	background: linear-gradient(5deg, #fdf0eb 0vh, #fceae6 20vh, #e3d9e2 40vh, #dce6e4 60vh, #faecdb 80vh, #fdf0eb 100vh);
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
 }
 
-body.home section {
-	/*padding-top: 2rem;*/
-	/*padding-bottom: 2rem;*/
-	/*outline: 2px dotted red;*/
+body > header > * {
+	/*justify-content: center;*/
 }
 
-/*body > header,
-body > footer {
-	background-color: rgb(240, 240, 240);
-	background-image: url('../assets/pattern.png');
-	background-attachment: fixed;
-	background-size: 200px 200px;
-}*/
-
+.hero {
+	width: calc(100% + 2*var(--gutter-width));
+	margin: 0 calc(-1*var(--gutter-width)) !important;
+}
 
 
 /* newsletter form */
@@ -27,7 +24,6 @@ body > footer {
 	position: relative;
 	flex-wrap: wrap;
 	margin: var(--gutter-height) auto;
-	max-width: 15rem;
 
 	background: rgba(var(--page-color), 0.7);
 	border: 1.5px solid;
@@ -46,18 +42,24 @@ body > footer {
 	flex-grow: 1;
 	flex-shrink: 0;
 	flex-basis: 0;
-	margin-left: 0.8em;
+	margin-left: 0.8rem;
 
 	border-color: transparent;
 }
+	#newsletter input[type="email"]:focus {
+		outline: none;
+	}
+
+	#newsletter input[type="email"]::placeholder {
+		color: var(--shadow-color);
+		opacity: 1;
+	}
 
 #newsletter label {
-	/*outline: 1px solid red;*/
 	position: absolute;
-	top: -2em;
+	top: calc(-1.5*var(--line-height));
 	width: 100%;
 
-	font-size:   0.8em;
-	line-height: 0.8em;
+	font-size: 0.8rem;
 	text-align: center;
 }
