@@ -1,5 +1,6 @@
 ---
 title: Επικοινωνία
+slug: epikoinonia
 show_share: false
 ---
 

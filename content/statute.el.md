@@ -1,5 +1,6 @@
 ---
 title: Καταστατικό
+slug: katastatiko
 summary: Περιληπτικό καταστατικό λειτουργίας Παιδικής Βιβλιοθήκης
 show_share: false
 ---
