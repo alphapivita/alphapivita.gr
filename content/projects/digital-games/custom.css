@@ -1,0 +1,9 @@
+body > header:before {
+	content: ' '; 
+	display: block;
+	height: 150px;
+	margin: calc(-1*var(--gutter-height)) calc(-1*var(--gutter-width)) var(--gutter-height) calc(-1*var(--gutter-width));
+
+	background: white url("./ACF_compo_Hor_GR.jpg") no-repeat 50% 0;
+	background-size: contain;
+}
