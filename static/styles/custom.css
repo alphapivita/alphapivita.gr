@@ -14,7 +14,7 @@ body > header > * {
 
 .hero {
 	width: calc(100% + 2*var(--gutter-width));
-	margin: 0 calc(-1*var(--gutter-width)) !important;
+	margin: 0 calc(-1*var(--gutter-width)) var(--gutter-height) !important;
 }
 
 
@@ -27,6 +27,9 @@ body > footer {
 
 
 /* newsletter form */
+#newsletter {
+	width: 15rem;
+}
 #newsletter form {
 	display: flex;
 	position: relative;
