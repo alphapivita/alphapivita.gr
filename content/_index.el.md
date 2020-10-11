@@ -10,18 +10,11 @@ description: Σωματείο για την πολιτισμική παρέμβ�
 
 {{< section class="panel" style="--page-color-transparency: 0" >}}
 <p>Η Ανοικτή Παιδική Βιβλιοθήκη είναι ένα μη κερδοσκοπικό σωματείο για την πρόσβαση του παιδιού στο βιβλίο. Αποτελεί μία πρωτοβουλία νέων επιστημόνων και επαγγελματιών με στόχο τη δημιουργία μιας πρότυπης παιδικής βιβλιοθήκης στο κέντρο της Αθήνας, αλλά και την υλοποίηση δωρεάν πολιτισμικών δράσεων, με επίκεντρο πάντα το έντυπο και ψηφιακό βιβλίο.</p>
-	<div id="newsletter">
-		<form action="https://alphapivita.us20.list-manage.com/subscribe/post?u=1be1ddf9a374f5ffdc688598f&id=ea42bc188e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-            <label for="EMAIL">Θέλετε να μαθαίνετε για τις δράσεις μας; ≋✉ </label>
-			<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="my@email.com" required autocomplete="off">
-			<input type="submit" value="ΕΓΓΡΑΦΗ" name="subscribe" id="mc-embedded-subscribe" class="button">
-		</form>
-	</div>
-<br>
+{{< simple-signup label="Θέλετε να μαθαίνετε για τις δράσεις μας;" placeholder="το email σας" subscribe="Εγγραφή" action="https://alphapivita.us20.list-manage.com/subscribe/post?u=1be1ddf9a374f5ffdc688598f&id=ea42bc188e" name="EMAIL" >}}
 {{< menu-social >}}
 {{</ section >}}
 <!-- style="--page-color: 255, 245, 245;"  -->
-{{< section class="" style="--page-color-transparency: 0" >}}
+{{< section class="" style="" >}}
 {{< articles-list types="news" title="Ενημερώσεις" filter="" class="stack" >}}
 <!-- {{< articles-list types="announcements" title="Ανακοινώσεις" filter="" class="" >}} -->
 {{< articles-list types="projects" title="Πρότζεκτ" filter="" class="cluster no-time thumbnail-16:9" >}}
