@@ -2,21 +2,19 @@ body {
 	/*--accent-color: 148, 46, 74 !important;*/
 	--accent-color: 255, 93, 92 !important;
 	--page-color-transparency: 1;
-	/*background: linear-gradient(5deg, #fdf0eb 0vh, #fceae6 20vh, #e3d9e2 40vh, #dce6e4 60vh, #faecdb 80vh, #fdf0eb 100%);*/
 	background: linear-gradient(5deg, #fdf0eb 0%, #fceae6 20%, #e3d9e2 40%, #dce6e4 60%, #fff 80%, #fff 100%);
 	background-repeat: no-repeat;
   	background-attachment: fixed;
 }
 
-body > header > * {
-	/*justify-content: center;*/
+body > main::before, .panel::before {
+	display: none;
 }
 
-.hero {
+.cover {
 	width: calc(100% + 2*var(--gutter-width));
 	margin: 0 calc(-1*var(--gutter-width)) var(--gutter-height) !important;
 }
-
 
 body > footer {
 	background-image: url('../assets/illustrations/kid3.png');
