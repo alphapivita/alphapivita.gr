@@ -1,67 +1,27 @@
-# section
+# παγεσ
 
-ephemera:
-  other: εφήμερα
+contact:
+  other: Επικοινωνία
 
+community:
+  other: Κοινότητα
+
+terms-of-use:
+  other: Όροι Χρήσης
+
+privacy-policy:
+  other: Δήλωση Απορρήτου
+
+statute:
+  other: Καταστατικό
 projects:
-  other: αντικείμενα
+  other: Πρότζεκτ
 
-texts:
-  other: κείμενα
-
-verses:
-  other: στίχοι
+news:
+  other: Ενημερώσεις
 
 
 # tags
 
-tag-architecture:
-  other: αρχιτεκτόνημα
-
-tag-artifact:
-  other: τέχνεργο
-
-tag-code:
-  other: κώδικας
-
-tag-design:
-  other: ντιζάϊν
-
-tag-visual-design:
-  other: γραφιστικό
-
-tag-portfolio:
-  other: βιτρίνα
-
-tag-video:
-  other: βίντεο
-
-tag-inscription:
-  other: χάραγμα
-
-tag-howto:
-  other: οδηγός
-
-tag-verse:
-  other: στίχος
-
-tag-www:
-  other: www
-
-tag-essay:
-  other: δοκίμιο
-
-tag-apparatus:
-  other: μαραφέτι
-
-tag-circuit:
-  other: κύκλωμα
-
-tag-book-review:
-  other: βιβλιοκριτική
-
-
-# threads
-
-series-debtron:
-  other: DEBTRON
+tag-event:
+  other: Εκδήλωση

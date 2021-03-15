@@ -10,9 +10,6 @@ enableMissingTranslationPlaceholders: true
 pluralizeListTitles: false
 footnoteReturnLinkContents: "*"
 
-## Menu settings
-# sectionPagesMenu: main # see https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
-
 
 ## Active Theme
 theme: onion
@@ -57,7 +54,7 @@ languages:
     title: Ανοικτή Παιδική Βιβλιοθήκη
     logo: '<img src="../../assets/alphapivita__EL__regular_beta.png" alt="Ανοικτή Παιδική Βιβλιοθήκη" width="150">'
     copyright: |
-      © 2019-2020 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
+      © 2019-2021 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
     params:
   # ur:
   #   weight: 3
@@ -75,12 +72,34 @@ languages:
   #   params:
   #     locale: fa
   #     languageDir: rtl
+    menu:
+      main:
+      - name: contact
+        weight: 10
+        url: /epikoinonia/
+      - name: community
+        weight: 20
+        url: /koinotita/
+    #   - name: threeee
+    #     weight: 30
+    #     pre: '<span class="cta">'
+    #     post: '</span>'
+      footer:
+      - name: terms-of-use
+        weight: 10
+        url: /terms-of-use/
+      - name: privacy-policy
+        weight: 20
+        url: /privacy-policy/
+      - name: statute
+        weight: 30
+        url: /katastatiko/
 
 ## Custom parameters
 params:
   theme: theme-white font-sans
-  menu_main: false # Display main menu, default is true
-  # menu_footer: false # Display footer menu, default is true
+  menu_main: true # Display main menu, default is true
+  menu_footer: true # Display footer menu, default is true
   # show_share: false # Social sharing buttons, default is true
   show_meta: false # Post metadata display, default is true
   # show_social: false # Display social menu in footer, default is true
