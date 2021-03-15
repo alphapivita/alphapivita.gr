@@ -7,3 +7,13 @@ HUGO_VERSION = "0.81.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 HUGO_BASEURL = "https://alphapivita.gr/"
+
+[[headers]]
+  for = "*.woff2"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "*.woff"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
