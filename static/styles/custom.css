@@ -1,6 +1,8 @@
 body {
 	/*--accent-color: 148, 46, 74 !important;*/
 	--accent-color: 255, 93, 92 !important;
+	--text-color: 148, 46, 74 !important;
+	--hyperlink-color: 148, 46, 74 !important;
 	--page-color-transparency: 1;
 	background: linear-gradient(5deg, #fdf0eb 0%, #fceae6 20%, #e3d9e2 40%, #dce6e4 60%, #fff 80%, #fff 100%);
 	background-repeat: no-repeat;
@@ -17,7 +19,7 @@ body > main::before, .panel::before {
 }
 
 body > footer {
-	background-image: url('../assets/illustrations/kid3.png');
+	background-image: url('../assets/illustrations/girl-walking-books.png');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: auto 20vh;
