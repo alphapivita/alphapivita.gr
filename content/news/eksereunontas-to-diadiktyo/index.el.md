@@ -36,7 +36,6 @@ cover: iexplorers.jpg
 : [Ανοικτή Παιδική Βιβλιοθήκη](https://www.alphapivita.gr)
 
 Με την συνεργασία
-: GameLab Panteion
 : Κέντρο Ημέρας Εφήβων, Πλόες - Εταιρεία Ψυχοκοινωνικών Μελετών
 
 &nbsp;
