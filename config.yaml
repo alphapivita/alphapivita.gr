@@ -52,7 +52,7 @@ languages:
     languageName: ελ
     languageCode: el
     title: Ανοικτή Παιδική Βιβλιοθήκη
-    logo: '<img src="../../assets/alphapivita__EL__regular_beta.png" alt="Ανοικτή Παιδική Βιβλιοθήκη" width="150">'
+    logo: '<img src="../../assets/alphapivita_EL_rect_B.png" alt="Ανοικτή Παιδική Βιβλιοθήκη" width="350">'
     copyright: |
       © 2019-2021 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
     params:

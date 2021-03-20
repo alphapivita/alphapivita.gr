@@ -19,8 +19,8 @@ body > main::before, .panel::before {
 }
 
 body > footer {
-	background-image: url('../assets/illustrations/girl-walking-books.png');
+	background-image: url('../assets/alphapivita_EL_square_B.png');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
-	background-size: auto 20vh;
+	background-size: auto 15vh;
 }
