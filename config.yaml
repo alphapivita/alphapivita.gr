@@ -43,13 +43,13 @@ defaultContentLanguage: el
 languages:
   en:
     weight: 2
-    languageName: en
+    languageName: English
     languageCode: en
     title: Children’s Open Library
     params:
   el:
     weight: 1
-    languageName: ελ
+    languageName: Ελληνικά
     languageCode: el
     title: Ανοικτή Παιδική Βιβλιοθήκη
     logo: '<img src="../../assets/alphapivita_EL_rect_B.png" alt="Ανοικτή Παιδική Βιβλιοθήκη" width="350">'
