@@ -41,12 +41,12 @@ copyright: |
   © 2019 Children’s Open Library
 defaultContentLanguage: el
 languages:
-  # en:
-  #   weight: 2
-  #   languageName: en
-  #   languageCode: en
-  #   title: Children’s Open Library
-  #   params:
+  en:
+    weight: 2
+    languageName: en
+    languageCode: en
+    title: Children’s Open Library
+    params:
   el:
     weight: 1
     languageName: ελ
