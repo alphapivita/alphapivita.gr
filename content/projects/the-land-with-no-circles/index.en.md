@@ -4,7 +4,7 @@ slug: the-land-with-no-circles
 date: 2021-01-10
 dateCreated: 2021
 summary: A multilingual, auditory, print, multimedia comic.
-cover: the-land-with-no-circles__cover.jpg
+# cover: ./the-land-with-no-circles__cover.jpg
 ---
 
 
@@ -14,9 +14,11 @@ It’s been designed as a total artistic experience: beyond the rich illustratio
 
 Soon available in updated bookstores in Greece, as online for free on www.alphapivita.gr. Published by *Children’s Open Library* in collaboration with *Levantes Publications*.
 
-<img src="./logo_Ministry-of-Culture.png" alt="Με την οικονομική υποστήριξη του Υπουργείου Πολιτισμού και Αθλητισμού." width="300" />
+![Indicative pages from the print edition](./the-land-with-no-circles_02.jpg)
 
 The comic is part of the action “The land with no circles - a book accessible to all children”, which was realised with the financial support of the Hellenic Ministry of Culture and Sports, for the support of letters and publications.
+
+![Hellenic Ministry of Culture and Sports](./logo_Ministry-of-Culture.png)
 
 ***
 
@@ -48,7 +50,7 @@ Translation & narration in Arabic
 : Hesham Omar Bahloul
 
 Translation & narration in Farsi
-: Reza Goldadi
+: R
 
 Assistant editor in Greek
 : Eleni Kopanaki
