@@ -38,7 +38,7 @@ permalinks:
 
 ## Language specific settings
 copyright: |
-  © 2019 Children’s Open Library
+  © 2019-2023 Children’s Open Library
 defaultContentLanguage: el
 languages:
   en:
@@ -54,7 +54,7 @@ languages:
     title: Ανοικτή Παιδική Βιβλιοθήκη
     logo: '<img src="../../assets/alphapivita_EL_rect_B.png" alt="Ανοικτή Παιδική Βιβλιοθήκη" width="350">'
     copyright: |
-      © 2019-2021 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
+      © 2019-2023 «Παιδική Βιβλιοθήκη»<br> Σωματείο για την πολιτισμική παρέμβαση και<br> την ενίσχυση της καθολικής πρόσβασης του παιδιού στο έντυπο και ψηφιακό βιβλίο.<br><!--<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.el">Creative&nbsp;Commons&nbsp;BY-SA</a>-->
     params:
   # ur:
   #   weight: 3
@@ -97,10 +97,13 @@ languages:
 
 ## Custom parameters
 params:
-  theme: theme-white font-sans
+  theme: theme--white mod--font-sans
   menu_main: true # Display main menu, default is true
   menu_footer: true # Display footer menu, default is true
   # show_share: false # Social sharing buttons, default is true
+  show_gadgets: false
+  show_search: false
+  show_author: false
   show_meta: false # Post metadata display, default is true
   # show_social: false # Display social menu in footer, default is true
   show_ui: false # Display UI features, default is true

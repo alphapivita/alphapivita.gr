@@ -1,16 +1,16 @@
 body {
-	/*--accent-color: 148, 46, 74 !important;*/
-	--accent-color: 255, 93, 92 !important;
-	--text-color: 148, 46, 74 !important;
-	--hyperlink-color: 148, 46, 74 !important;
+	--accent-color: 255, 93, 92;
+	--text-color: 148, 46, 74;
+	--hyperlink-color: 148, 46, 74;
 	--page-color-transparency: 1;
-	background: linear-gradient(5deg, #fdf0eb 0%, #fceae6 20%, #e3d9e2 40%, #dce6e4 60%, #fff 80%, #fff 100%);
+	--page-color: 255, 255, 255;
+/*	background: linear-gradient(5deg, #fdf0eb 0%, #fceae6 20%, #e3d9e2 40%, #dce6e4 60%, #fff 80%, #fff 100%);*/
 	background-repeat: no-repeat;
   	background-attachment: fixed;
 }
 
-body > main::before, .panel::before {
-	display: none;
+body {
+	font-family: var(--font-sans);
 }
 
 .cover {
@@ -18,9 +18,9 @@ body > main::before, .panel::before {
 	margin: 0 calc(-1*var(--gutter-width)) var(--gutter-height) !important;
 }
 
-body > footer {
+/*body > footer {
 	background-image: url('../assets/alphapivita_EL_square_B.png');
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: auto 15vh;
-}
+}*/
