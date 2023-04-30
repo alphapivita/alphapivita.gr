@@ -12,9 +12,9 @@ The “Land with no circles” is a comic in four languages (Greek - English - F
 
 <span class="cta"><a href="http://nocircles.alphapivita.gr/" target="_blank">Flip through the free digital book ›</a></span>
 
-It’s been designed as a total artistic experience: beyond the rich illustrations, the reader can connect to the auditory universe of the publication. The original score written and orchestrated for the story, and the audio effects come together in the digital edition of the comic, will be available for free on the website of *Children’s Open Library*.
+It’s been designed as a total artistic experience: beyond the rich illustrations, the reader can connect to the auditory universe of the publication. The original score written and orchestrated for the story, and the audio effects come together in the digital edition of the comic, are only available for free on the website of *Children’s Open Library*.
 
-Soon available in updated bookstores in Greece, as online for free on www.alphapivita.gr. Published by *Children’s Open Library* in collaboration with *Levantes Publications*.
+Αvailable in up to date bookstores in Greece, and online for free on www.alphapivita.gr. Published by *Children’s Open Library* in collaboration with *Levantes Publications*.
 
 ![Indicative pages from the print edition](./the-land-with-no-circles_02.jpg)
 
