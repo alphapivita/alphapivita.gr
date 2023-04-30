@@ -4,18 +4,38 @@ body {
 	--hyperlink-color: 148, 46, 74;
 	--page-color-transparency: 1;
 	--page-color: 255, 255, 255;
-/*	background: linear-gradient(5deg, #fdf0eb 0%, #fceae6 20%, #e3d9e2 40%, #dce6e4 60%, #fff 80%, #fff 100%);*/
+/*	background: linear-gradient(5deg, #fdf0eb 0%, #fceae6 20%, #e3d9e2 40%, #dce6e4 60%, #fff 80%, #fff 110%);*/
 	background-repeat: no-repeat;
   	background-attachment: fixed;
 }
 
-body {
-	font-family: var(--font-sans);
+body > header, main, body > footer {
+	background: none;
 }
 
-.cover {
+/*.cover {
 	width: calc(100% + 2*var(--gutter-width));
 	margin: 0 calc(-1*var(--gutter-width)) var(--gutter-height) !important;
+}*/
+
+.menu {
+	text-transform: uppercase;
+	line-height: 1.9;
+}
+
+section.panel {
+	min-height: 60vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.articles-list summary > h2 {
+	text-align: center;
+}
+
+.copyright {
+	font-size: 80%;
 }
 
 /*body > footer {
