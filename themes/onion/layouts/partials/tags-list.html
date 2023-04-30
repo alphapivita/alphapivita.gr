@@ -1,4 +1,0 @@
-<!-- layouts/partials/tags-list.html -->
-{{- range .Params.Tags -}}{{ with $.Site.GetPage (printf "/%s/%s" "tags" . ) -}}
-	{{- partial "taxon" . -}}
-{{- end -}}{{- end -}}
