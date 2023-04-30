@@ -10,7 +10,7 @@ summary: A multilingual, auditory, print, multimedia comic.
 
 The “Land with no circles” is a comic in four languages (Greek - English - Farsi - Arabic) in print, auditory, and digital editions that offers children with multiple language backgrounds and disabilities to share a common story.
 
-<span class="cta"><a href="http://nocircles.alphapivita.gr/" target="_blank">Flip through the free digital book ›</a></span>
+<span class="cta"><a href="http://nocircles.alphapivita.gr/" target="_blank">Flip through the free digital book</a></span>
 
 It’s been designed as a total artistic experience: beyond the rich illustrations, the reader can connect to the auditory universe of the publication. The original score written and orchestrated for the story, and the audio effects come together in the digital edition of the comic, are only available for free on the website of *Children’s Open Library*.
 

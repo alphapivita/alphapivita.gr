@@ -9,17 +9,18 @@ description: Σωματείο για την πολιτισμική παρέμβ�
 {{</ section >}} -->
 
 {{< section class="panel" style="--page-color-transparency: 0" >}}
-<p>
-<img src="../assets/girl-walking-books.png" width="150" alt="Σχέδιο ενός κοριτσιού που μεταφέρει βιβλία" />
-Η Ανοικτή Παιδική Βιβλιοθήκη είναι ένα μη κερδοσκοπικό σωματείο για την πρόσβαση του παιδιού στο βιβλίο. Αποτελεί μία πρωτοβουλία νέων επιστημόνων που υλοποιούν δωρεάν πολιτισμικές δράσεις, με επίκεντρο πάντα το έντυπο και ψηφιακό βιβλίο.</p>
+<p>Η Ανοικτή Παιδική Βιβλιοθήκη είναι ένα μη κερδοσκοπικό σωματείο για την πρόσβαση του παιδιού στο βιβλίο. Αποτελεί μία πρωτοβουλία νέων επιστημόνων που υλοποιούν δωρεάν πολιτισμικές δράσεις, με επίκεντρο πάντα το έντυπο και ψηφιακό βιβλίο.</p>
+
+<img src="../assets/girl-walking-books.png" width="200" alt="Σχέδιο ενός κοριτσιού που μεταφέρει βιβλία" />
+
 {{< simple-signup label="Θέλετε να μαθαίνετε για τις δράσεις μας;" placeholder="το email σας" subscribe="Εγγραφή" action="https://alphapivita.us20.list-manage.com/subscribe/post?u=1be1ddf9a374f5ffdc688598f&id=ea42bc188e" name="EMAIL" >}}
-{{< menu-social >}}
+<!-- {{< menu-social >}} -->
 {{</ section >}}
 <!-- style="--page-color: 255, 245, 245;"  -->
 {{< section class="" style="" >}}
-{{< articles-list types="news" title="Ενημερώσεις" filter="" class="stack" >}}
 <!-- {{< articles-list types="announcements" title="Ανακοινώσεις" filter="" class="" >}} -->
 {{< articles-list types="projects" title="Πρότζεκτ" filter="" class="cluster no-time thumbnail-16:9" >}}
+{{< articles-list types="news" title="Ενημερώσεις" filter="" class="stack" >}}
 {{</ section >}}
 
 {{< section >}}
